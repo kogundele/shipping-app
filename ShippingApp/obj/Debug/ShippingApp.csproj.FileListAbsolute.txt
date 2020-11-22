@@ -1,0 +1,14 @@
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\bin\Debug\ShippingApp.exe.config
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\bin\Debug\ShippingApp.exe
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\bin\Debug\ShippingApp.pdb
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\MainWindow.g.cs
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\App.g.cs
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp_MarkupCompile.cache
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp_MarkupCompile.lref
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\MainWindow.baml
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp.g.resources
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp.Properties.Resources.resources
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp.csproj.GenerateResource.cache
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp.csproj.CoreCompileInputs.cache
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp.exe
+C:\Users\aogun2\source\repos\ShippingApp\ShippingApp\obj\Debug\ShippingApp.pdb
